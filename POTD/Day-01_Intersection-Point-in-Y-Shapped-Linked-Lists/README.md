@@ -48,9 +48,13 @@ Before solving this problem, it is important to understand:
 - After merging, they share the **same tail**
 
 List 1: 1 → 2 → 3
+
 ↘
+
 6 → 7 → NULL
+
 ↗
+
 List 2: 4 → 5
 
 
@@ -161,11 +165,13 @@ List2: 3 → 6 → 9 →
 Move List2 pointer ahead by 2:
 
 List1: 10 → 15 → 30
+
 List2: 9 → 15 → 30
 
 
 Now traverse together:
 - 10 ≠ 9
+- 
 - 15 == 15 → Intersection found
 
 ### ✅ Output
