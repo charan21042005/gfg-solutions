@@ -50,7 +50,7 @@ Rather than just storing solutions, this repo documents:
 
 ```text
 gfg-solutions/
-├── Daily-Practice/
+├── POTD/
 │   ├── Day-01_<Problem-Name>/
 │   │   ├── README.md
 │   │   ├── Solution.cpp
