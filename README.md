@@ -91,15 +91,15 @@ This ensures **deep learning instead of surface-level** solving.
 
 🧠 What You’ll Find in Each Problem Folder
 
-✔ Problem description & link
-✔ Topics and concepts involved
-✔ Step-by-step intuition
-✔ Multiple approaches (where applicable)
-✔ Pseudocode
-✔ Dry run examples
-✔ Optimized solution
-✔ Time & space complexity analysis
-✔ Interview-friendly explanations
+* ✔ Problem description & link
+* ✔ Topics and concepts involved
+* ✔ Step-by-step intuition
+* ✔ Multiple approaches (where applicable)
+* ✔ Pseudocode
+* ✔ Dry run examples
+* ✔ Optimized solution
+* ✔ Time & space complexity analysis
+* ✔ Interview-friendly explanations
 
 ---
 
