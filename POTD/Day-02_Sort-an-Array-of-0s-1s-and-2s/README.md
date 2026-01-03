@@ -3,6 +3,9 @@
 🔗 **Problem Link**:  
 https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 
+🟠 **Difficulty:** Medium
+
+
 ---
 
 ## 📌 Problem Overview
@@ -277,6 +280,14 @@ Loop ends → array sorted ✅
 - Builds strong understanding of:
   - In-place sorting
   - Pointer techniques
+
+---
+
+## 📂 Files in this folder
+
+- 📄 [Solution.cpp](Solution.cpp)
+- 📄 [Solution.java](Solution.java)
+- 📄 [Solution.py](Solution.py)
 
 ---
 
