@@ -1,5 +1,7 @@
 # Intersection Point in Y Shapped Linked Lists
 
+🟠 **Difficulty:** Medium
+
 🔗 **Problem Link**:  
 https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
 
@@ -218,6 +220,15 @@ Now traverse together:
   - Pointer manipulation
 
 ---
+
+---
+
+## 📂 Files in this folder
+
+- 📄 [Solution.cpp](Solution.cpp)
+- 📄 [Solution.java](Solution.java)
+- 📄 [Solution.py](Solution.py)
+
 
 📌 **Day 01 Completed Successfully!**  
 🚀 *Consistency starts with clarity.*
