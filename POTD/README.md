@@ -1,0 +1,70 @@
+# 📅 GFG Problem of the Day (POTD)
+
+This folder contains my **daily GeeksforGeeks Problem of the Day (POTD) solutions**, solved consistently with a strong focus on:
+
+- ✅ Core **Data Structures & Algorithms**
+- 🧠 Clear **intuition & explanations**
+- 💡 **Optimal + alternative approaches**
+- 💻 Clean, **human-readable code** (C++ / Java / Python)
+- 🎯 **Interview-oriented problem solving**
+
+Each problem is organized **day-wise**, following a disciplined and scalable structure.
+
+---
+
+## 📂 Folder Structure Philosophy
+
+- 📁 **One Day = One Problem**
+- 📄 Each day contains:
+  - `README.md` → Detailed explanation (concepts, approaches, pseudocode, dry run, complexity, tips)
+  - `Solution.cpp`
+  - `Solution.java`
+  - `Solution.py`
+- 🔢 Folder naming ensures **chronological order** (`Day-01`, `Day-02`, …)
+
+This makes the repository easy to:
+- Revise
+- Track progress
+- Showcase consistency to recruiters
+
+---
+
+## 📊 Daily Problem Tracker
+
+| Day | Problem Name | Difficulty | Problem Link | Folder |
+|----|-------------|-----------|--------------|--------|
+| Day-01 | Intersection Point in Y Shapped Linked Lists | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | 📂 [Open](./Day-01_Intersection-Point-in-Y-Shapped-Linked-Lists) |
+| Day-02 | Sort an Array of 0s, 1s and 2s | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | 📂 [Open](./Day-02_Sort-an-Array-of-0s-1s-and-2s) |
+| Day-03 | Flattening a Linked List | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | 📂 [Open](./Day-03_Flattening-a-Linked-List) |
+| Day-04 | Check if Linked List is Palindrome | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | 📂 [Open](./Day-04_Check-if-Linked-List-is-Palindrome) |
+
+---
+
+## 🧠 What Makes This POTD Folder Special
+
+✔ Consistent daily practice  
+✔ Beginner-friendly explanations  
+✔ Interview-safe coding style  
+✔ Multiple approaches preserved  
+✔ Easy navigation with clickable folders  
+✔ Scalable to 100+ problems  
+
+---
+
+## 🚀 Future Plan
+
+- Continue adding **1 POTD every day**
+- Maintain **same depth & quality**
+- Gradually cover:
+  - Arrays
+  - Linked Lists
+  - Stacks & Queues
+  - Trees
+  - Graphs
+  - Dynamic Programming
+
+---
+
+<p align="center">
+  <i>“One problem a day builds unbeatable consistency.”</i>
+</p>
