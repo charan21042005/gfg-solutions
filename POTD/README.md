@@ -38,6 +38,8 @@ This makes the repository easy to:
 | Day-03 | Flattening a Linked List | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | 📂 [Open](./Day-03_Flattening-a-Linked-List) |
 | Day-04 | Check if Linked List is Palindrome | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | 📂 [Open](./Day-04_Check-if-Linked-List-is-Palindrome) |
 
+📌 *This table is updated daily as part of the streak.*
+
 ---
 
 ## 🧠 What Makes This POTD Folder Special
