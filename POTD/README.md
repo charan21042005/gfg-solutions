@@ -31,6 +31,8 @@ This makes the repository easy to:
 
 ## 📊 Daily Problem Tracker
 
+## 📊 Daily Problem Tracker
+
 | Day | Problem Name | Difficulty | Problem Link | Folder |
 |----|--------------|------------|--------------|--------|
 | Day-01 | Intersection Point in Y Shapped Linked Lists | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | 📁 [Open](./Day-01_Intersection-Point-in-Y-Shapped-Linked-Lists) |
@@ -38,6 +40,7 @@ This makes the repository easy to:
 | Day-03 | Flattening a Linked List | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | 📁 [Open](./Day-03_Flattening-a-Linked-List) |
 | Day-04 | Check if Linked List is Palindrome | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | 📁 [Open](./Day-04_Check-if-Linked-List-is-Palindrome) |
 | Day-05 | Max Sum Subarray of Size K | 🟢 Easy | [GFG Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | 📁 [Open](./Day-05_Max-Sum-Subarray-of-Size-K) |
+| Day-06 | Max XOR Subarray of Size K | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1) | 📁 [Open](./Day-06_Max-XOR-Subarray-of-Size-K) |
 
 📌 *This table is updated daily as part of the POTD streak.*
 
