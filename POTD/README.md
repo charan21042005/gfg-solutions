@@ -40,9 +40,9 @@ This makes the repository easy to:
 | Day-05 | Max Sum Subarray of Size K | 🟢 Easy | [GFG Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | 📁 [Open](./Day-05_Max-Sum-Subarray-of-Size-K) |
 | Day-06 | Max XOR Subarray of Size K | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1) | 📁 [Open](./Day-06_Max-XOR-Subarray-of-Size-K) |
 | Day-07 | Count Distinct Elements in Every Window | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | 📁 [Open](./Day-07_Count-Distinct-Elements-in-Every-Window) |
+| Day-08 | Count Subarrays with Exactly K Odds | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | 📁 [Open](./Day-08_Count-Subarray-with-K-Odds) |
 
 📌 *This table is updated daily as part of the POTD streak.*
-
 
 
 ---
