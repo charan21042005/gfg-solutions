@@ -149,7 +149,7 @@ return count
 ```cpp
 arr = [1, 2, 1, 2, 3]
 k = 2
-``
+```
 
 ### Window Analysis
 
