@@ -116,6 +116,15 @@ Repeat this process to find the **global minimum window**.
 
 This is the **standard interview solution**.
 
+⚠️ Important Note:
+Although a greedy forward + backward two-pointer approach may work for some cases,
+it is NOT reliable for all inputs on GFG (especially with overlapping subsequences
+and repeated characters).
+
+The Dynamic Programming solution is the ONLY approach that guarantees correctness
+for all test cases and is therefore used in the final implementation.
+
+
 ---
 
 ## 🔁 Two-Pointer + Backtracking Strategy
