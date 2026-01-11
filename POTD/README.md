@@ -43,9 +43,9 @@ This makes the repository easy to:
 | Day-08 | Count Subarrays with Exactly K Odds | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | 📁 [Open](./Day-08_Count-Subarray-with-K-Odds) |
 | Day-09 | Subarrays with At Most K Distinct Integers | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1) | 📁 [Open](./Day-09_Subarrays-with-at-Most-K-Distinct-Integers) |
 | Day-10 | Count Number of Substrings | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | 📁 [Open](./Day-10_Count-Number-of-Substrings) |
+| Day-11 | Minimum Window Subsequence | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1) | 📁 [Open](./Day-11_Minimum-Window-Subsequence) |
 
 📌 *This table is updated daily as part of the POTD streak.*
-
 
 ## 🧠 What Makes This POTD Folder Special
 
