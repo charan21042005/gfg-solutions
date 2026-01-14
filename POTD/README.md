@@ -46,6 +46,8 @@ This makes the repository easy to:
 | Day-11 | Minimum Window Subsequence | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1) | 📁 [Open](./Day-11_Minimum-Window-Subsequence) |
 | Day-12 | Maximum of All Subarrays of Size K | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | 📁 [Open](./Day-12_Maximum-of-All-Subarrays-of-Size-K) |
 | Day-13 | Bus Ticket Change | 🟢 Easy | [GFG Link](https://www.geeksforgeeks.org/problems/lemonade-change/1) | 📁 [Open](./Day-13_Bus-Ticket-Change) |
+| Day-14 | Police and Thieves | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | 📁 [Open](./Day-14_Police-and-Thieves) |
+
 
 
 
