@@ -49,6 +49,8 @@ This makes the repository easy to:
 | Day-14 | Police and Thieves | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | 📁 [Open](./Day-14_Police-and-Thieves) |
 | Day-15 | Candy | 🔴 Hard | [GFG Link](https://www.geeksforgeeks.org/problems/candy/1) | 📁 [Open](./Day-15_Candy) |
 | Day-16 | Minimum Number of Workers | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/minimum-sprinklers/1) | 📁 [Open](./Day-16_Minimum-Number-of-Workers) |
+| Day-17 | Expression Contains Redundant Bracket or Not | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1) | 📁 [Open](./Day-17_Expression-Contains-Redundant-Bracket) |
+
 
 
 
