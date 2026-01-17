@@ -50,6 +50,9 @@ This makes the repository easy to:
 | Day-15 | Candy | 🔴 Hard | [GFG Link](https://www.geeksforgeeks.org/problems/candy/1) | 📁 [Open](./Day-15_Candy) |
 | Day-16 | Minimum Number of Workers | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/minimum-sprinklers/1) | 📁 [Open](./Day-16_Minimum-Number-of-Workers) |
 | Day-17 | Expression Contains Redundant Bracket or Not | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1) | 📁 [Open](./Day-17_Expression-Contains-Redundant-Bracket) |
+| Day-18 | Next Element with Greater Frequency | 🟠 Medium | [GFG Link](https://www.geeksforgeeks.org/problems/next-element-with-greater-frequency--170637/1) | 📁 [Open](./Day-18_Next-Element-with-Greater-Frequency) |
+
+
 
 
 
